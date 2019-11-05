@@ -9,7 +9,6 @@
     - wget
     - httpd
     - httpd-tools
-    - screen
     - nmap
 
 # Configure apache
